@@ -1,6 +1,6 @@
 # Add a Blazor Dropdown List to a Blazor Server App
 
-A quick overview on how to create and configure the Syncfusion Blazor Dropdown List in a Blazor Server app using Visual Studio Code. You will learn how to add Syncfusion Blazor Dropdown List to a Blazor Server application. You will see how to populate it with JSON data and remote data sources. You will also learn how to set a custom height and width for the Dropdown List pop-up. 
+A quick project helps you to learn how to configure the Syncfusion Blazor Dropdown List in a Blazor Server app using Visual Studio 2019. You will also learn how to populate it with JSON data and remote data sources. 
  
 Example: https://blazor.syncfusion.com/demos/dropdown-list/default-functionalities
 
