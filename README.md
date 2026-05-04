@@ -1,6 +1,6 @@
 # Add a Blazor Dropdown List to a Blazor Server App
 
-A quick project helps you to learn how to configure the Syncfusion [Blazor Dropdown List](https://www.syncfusion.com/blazor-components/blazor-dropdown-list) in a Blazor Server app using Visual Studio 2022. You will also learn how to populate it with JSON data and remote data sources. 
+A quick project helps you to learn how to configure the Syncfusion [Blazor Dropdown List](https://www.syncfusion.com/blazor-components/blazor-dropdown-list) in a Blazor Server App. You will also learn how to populate it with JSON data and remote data sources. 
  
 ## Prerequisites
 
